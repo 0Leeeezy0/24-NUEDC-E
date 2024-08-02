@@ -1,0 +1,3 @@
+/home/edgeboard/Desktop/SWAN/build/CMakeFiles/SWAN.RUN.dir
+/home/edgeboard/Desktop/SWAN/build/CMakeFiles/edit_cache.dir
+/home/edgeboard/Desktop/SWAN/build/CMakeFiles/rebuild_cache.dir
